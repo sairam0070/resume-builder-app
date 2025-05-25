@@ -1,11 +1,11 @@
 
-import Resume from './components/resume'
+import Resume from './components/Resume';
+
 function App() {
 
   return (
     <>
-  <Resume/>
-
+ <Resume/>
     </>
   )
 }
