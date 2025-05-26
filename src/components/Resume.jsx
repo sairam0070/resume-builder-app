@@ -256,7 +256,10 @@ function Resume() {
         <button onClick={generatePDF} className={styles.button}>
           Generate PDF
         </button>
+    <p style={{ marginTop: "1rem", fontWeight: "bold" ,marginLeft:"36rem"}}>SR7 Enterprise</p>
+
       </div>
+
     </div>
   );
 }
